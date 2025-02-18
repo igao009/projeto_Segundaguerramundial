@@ -3,6 +3,7 @@
 * Nome: Ramon Polverine (https://github.com/RamonPol10/SEGUNDA-GUERRA/blob/main/readme.md)
 * Nome: Luiz Ricardo (https://github.com/Ricardogonzaga98/Trabalho-Faculdade/blob/main/README.md)
 * Nome: Matheus Henrique Pereirea Gangini (https://github.com/Mathhp21/Trabalho/blob/main/readme.md)
+* Nome: Adler Koneski (https://github.com/Adler-koneski/segunda-guerra/blob/main/README.md)
 
 
 # A França na Segunda Guerra Mundial
