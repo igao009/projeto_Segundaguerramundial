@@ -1,4 +1,4 @@
-# projeto_Segundaguerramundial
+# Projeto de Segunda Guerra Mundial
 
 * Nome: Ramon Polverine (https://github.com/RamonPol10/SEGUNDA-GUERRA/blob/main/readme.md)
 * Nome: Luiz Ricardo (https://github.com/Ricardogonzaga98/Trabalho-Faculdade/blob/main/README.md)
