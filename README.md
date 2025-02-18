@@ -1,7 +1,9 @@
 # projeto_Segundaguerramundial
 
-Nome: 
-        
+* Nome: Ramon Polverine (https://github.com/RamonPol10/SEGUNDA-GUERRA/blob/main/readme.md)
+* Nome: Luiz Ricardo (https://github.com/Ricardogonzaga98/Trabalho-Faculdade/blob/main/README.md)
+* Nome: Matheus Henrique Pereirea Gangini (https://github.com/Mathhp21/Trabalho/blob/main/readme.md)
+
 
 # A França na Segunda Guerra Mundial
 Durante a Segunda Guerra Mundial (1939-1945) , a França viveu momentos decisivos que marcaram sua história. InicializaçãoAliados , o país foi rapidamente derrotado e ocupado pela Alemanha nazista em 1940 , mas resistiu e participou da libertação
